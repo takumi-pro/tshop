@@ -23,6 +23,7 @@ if(($key = array_search($_SESSION['user_id'],$dealid)) !== false){
 }
 $opponentid = array_shift($dealid);
 debug('相手のID:'.$opponentid);
+//DBから相手の情報を取得
 $opponentinfo = getdb($opponentid);
 debug('相手情報:'.print_r($opponentinfo,true));
 
@@ -109,7 +110,7 @@ if(!empty($_POST)){
                         <p class="poster">出品者</p>
                         <div class="poster-link">
                             <a href="">
-                                <p class="poster-img"><img style="border-radius:50%;" src="img/sample-img.png" alt=""></p>
+                                <p class="poster-img"><img style="border-radius:50%;" src="<?php echo sanitize(showimg($opponentinfo['pic'])); ?>" alt=""></p>
                                 <p class="poster-name">ダニエル</p>
                             </a>
                         </div>

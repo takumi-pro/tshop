@@ -47,7 +47,6 @@ if(!empty($_POST)){
                     }
                 }catch (Exception $e){
                     error_log('エラー発生:'.$e->getMessage());
-                   
                 }
             }
         }

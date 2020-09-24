@@ -18,19 +18,19 @@ if(!empty($_POST)){
                 $resu = $stmt->fetch(PDO::FETCH_ASSOC);
                 if($stmt && !empty(array_shift($resu))){
                     $authkey = Randkey();
-                    $from = 'info@tshop.com';
+                    $from = 'takumidiary.0927@gmail.com';
                     $to = $email;
                     $subject = 'パスワード再発行認証';
                     $comment = <<<EOT
                     本メールアドレス宛にパスワード再発行のご依頼がありました。
                     下記のURLにて認証キーをご入力頂くとパスワードが再発行されます。
           
-                    パスワード再発行認証キー入力ページ：http://localhost:8888/tshop/remindrecieve.php
+                    パスワード再発行認証キー入力ページ：http://takumidiary.com/tshop/remindrecieve.php
                     認証キー：{$authkey}
                     ※認証キーの有効期限は30分となります
           
                     認証キーを再発行されたい場合は下記ページより再度再発行をお願い致します。
-                    http://localhost:8888/tshop/remindsend.php
+                    http://takumidiary.com/tshop/remindsend.php
                     EOT;
                     sendMail($to,$subject,$comment,$from);
                     $_SESSION['auth_key'] = $authkey;

@@ -2,7 +2,7 @@
         <div class="header-inner flex" style="justify-content: space-between;">
             <div class="head-up">
                 <div class="logo">
-                    <h1 class="main-logo" style="height:40px;position:relative;"><a class="en" href="top.php" style="font-size:28px;color:#111;position:absolute;top:0;">Tshop</a></h1>
+                    <h1 class="main-logo" style="height:40px;position:relative;"><a class="en" href="index.php" style="font-size:28px;color:#111;position:absolute;top:0;">Tshop</a></h1>
                 </div>
             </div>
             <div class="head-down">

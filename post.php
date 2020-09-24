@@ -1,5 +1,6 @@
 <?php
 require('function.php');
+require('auth.php');
 debug('-------------post-----------');
 $p_id = (!empty($_GET['p_id'])) ? $_GET['p_id'] : '';
 debug('GET:'.print_r($_GET,true));

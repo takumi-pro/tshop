@@ -2,7 +2,7 @@
 ini_set('log_errors','on');
 ini_set('error_log','php.log');
 
-$debug = false;
+$debug = true;
 function debug($str){
     global $debug;
     if($debug){
@@ -42,18 +42,13 @@ $err_msg = array();
 
 //db接続
 function db(){
-    $dsn = 'mysql:dbname=tshop;host=localhost;charset=utf8';
-    $user = 'root';
-    $pass = 'root';
-    $option = array(
-        // SQL実行失敗時にはエラーコードのみ設定
-        PDO::ATTR_ERRMODE => PDO::ERRMODE_SILENT,
-        // デフォルトフェッチモードを連想配列形式に設定
-        PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
-        // バッファードクエリを使う(一度に結果セットをすべて取得し、サーバー負荷を軽減)
-        // SELECTで得た結果に対してもrowCountメソッドを使えるようにする
-        PDO::MYSQL_ATTR_USE_BUFFERED_QUERY => true,
-      );
+    //$dsn = 'mysql:dbname=tshop;host=localhost;charset=utf8';
+    $dsn = 'mysql:dbname=xs324271_tshop;host=mysql10069.xserver.jp;charset=utf8';
+    //$user = 'root';
+    //$pass = 'root';
+    $user = 'xs324271_takumi';
+    $pass = 'tfic0927';
+    r
     $dbh = new PDO($dsn, $user,$pass,$option);
     return $dbh;
 }
@@ -98,7 +93,7 @@ function emaildup($str){
         }
     }catch (Exception $e){
         error_log('エラー発生:'.$e->getMessage());
-        $err_msg['common'] = MSG08;
+        $err_msg['common'] = MSG03;
     }
 }
 //最大文字数
@@ -274,6 +269,21 @@ function getcate(){
         error_log('エラー発生:'.$e->getMessage());
     }
 }
+//新着商品取得
+function newitem(){
+    try{
+       $dbh = db();
+       $sql = 'SELECT id,price,name,des,pic1,create_date FROM item ORDER BY create_date DESC LIMIT 10 OFFSET 1';
+       $data = array();
+       $stmt = query($dbh,$sql,$data);
+       if($stmt){
+           $resu = $stmt->fetchAll();
+           return $resu;
+        } 
+    }catch (Exception $e){
+        error_log('エラー発生:'.$e->getMessage());
+    }
+}
 //登録商品取得
 function getpost($str,$key){
     try{
@@ -373,7 +383,7 @@ function getpostlist($nowmin,$cate,$price,$keyword,$c1,$c2,$c3,$c4,$c5,$c6,$sear
                 if(!empty($c1) || !empty($c2) || !empty($c3) || !empty($c4) || !empty($c5) || !empty($c6)){
                     $sqlprapre = statusj($c1,$c2,$c3,$c4,$c5,$c6);
                     $sqlexce = mb_substr($sqlprapre,0,-3,"UTF-8");
-                    $sql .= ' AND'.$sqlexce;
+                    $sql .= ' AND ('.$sqlexce.')';
                 }
                 if(!empty($sort)){
                     switch($sort){
@@ -393,12 +403,16 @@ function getpostlist($nowmin,$cate,$price,$keyword,$c1,$c2,$c3,$c4,$c5,$c6,$sear
                     $sql .= ' WHERE price BETWEEN '.$pricerenge[0].' AND '.$pricerenge[1];
                 }elseif(!empty($price) && !empty($cate)){
                     $sql .= ' WHERE category_id='.$cate.' price BETWEEN '.$pricerenge[0].' AND '.$pricerenge[1];
-                }
-                if(!empty($c1) || !empty($c2) || !empty($c3) || !empty($c4) || !empty($c5) || !empty($c6)){
+                }elseif(empty($price) && empty($cate) && (!empty($c1) || !empty($c2) || !empty($c3) || !empty($c4) || !empty($c5) || !empty($c6))){
                     $sqlprapre = statusj($c1,$c2,$c3,$c4,$c5,$c6);
                     $sqlexce = mb_substr($sqlprapre,0,-3,"UTF-8");
-                    $sql .= ' AND'.$sqlexce;
+                    $sql .= ' WHERE '.$sqlexce;
+                }elseif(!empty($c1) || !empty($c2) || !empty($c3) || !empty($c4) || !empty($c5) || !empty($c6)){
+                    $sqlprapre = statusj($c1,$c2,$c3,$c4,$c5,$c6);
+                    $sqlexce = mb_substr($sqlprapre,0,-3,"UTF-8");
+                    $sql .= ' AND ('.$sqlexce.')';
                 }
+                
                 if(!empty($sort)){
                     switch($sort){
                        
@@ -415,7 +429,11 @@ function getpostlist($nowmin,$cate,$price,$keyword,$c1,$c2,$c3,$c4,$c5,$c6,$sear
         $data = array();
         debug('SQL：'.$sql);
         $stmt = query($dbh,$sql,$data);
-        $rst['total'] = $stmt->rowCount(); //総レコード数
+        if(!empty($stmt)){
+            $rst['total'] = $stmt->rowCount();
+        }else{
+            $rst['total'] = 0;
+        }
         $rst['total_page'] = ceil($rst['total']/$span); //総ページ数
         if(!$stmt){
             return false;
@@ -437,7 +455,7 @@ function getpostlist($nowmin,$cate,$price,$keyword,$c1,$c2,$c3,$c4,$c5,$c6,$sear
             if(!empty($c1) || !empty($c2) || !empty($c3) || !empty($c4) || !empty($c5) || !empty($c6)){
                 $sqlprapre = statusj($c1,$c2,$c3,$c4,$c5,$c6);
                 $sqlexce = mb_substr($sqlprapre,0,-3,"UTF-8");
-                $sql .= ' AND'.$sqlexce;
+                $sql .= ' AND ('.$sqlexce.')';
             }
             if(!empty($sort)){
                 switch($sort){
@@ -457,12 +475,16 @@ function getpostlist($nowmin,$cate,$price,$keyword,$c1,$c2,$c3,$c4,$c5,$c6,$sear
                 $sql .= ' WHERE price BETWEEN '.$pricerenge[0].' AND '.$pricerenge[1];
             }elseif(!empty($price) && !empty($cate)){
                 $sql .= ' WHERE category_id='.$cate.' price BETWEEN '.$pricerenge[0].' AND '.$pricerenge[1];
-            }
-            if(!empty($c1) || !empty($c2) || !empty($c3) || !empty($c4) || !empty($c5) || !empty($c6)){
+            }elseif(empty($price) && empty($cate) && (!empty($c1) || !empty($c2) || !empty($c3) || !empty($c4) || !empty($c5) || !empty($c6))){
                 $sqlprapre = statusj($c1,$c2,$c3,$c4,$c5,$c6);
                 $sqlexce = mb_substr($sqlprapre,0,-3,"UTF-8");
-                $sql .= ' AND'.$sqlexce;
+                $sql .= ' WHERE '.$sqlexce;
+            }elseif(!empty($c1) || !empty($c2) || !empty($c3) || !empty($c4) || !empty($c5) || !empty($c6)){
+                $sqlprapre = statusj($c1,$c2,$c3,$c4,$c5,$c6);
+                $sqlexce = mb_substr($sqlprapre,0,-3,"UTF-8");
+                $sql .= ' AND ('.$sqlexce.')';
             }
+            
             if(!empty($sort)){
                 switch($sort){
                 case 1:

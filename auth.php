@@ -7,7 +7,7 @@ if(!empty($_SESSION['login_time'])){
         if(basename($_SERVER['PHP_SELF']) === "login.php"){
             header("Location:mypage.php");
         }
-        
+
     }else{
         debug('有効期限切れ');
         session_destroy();

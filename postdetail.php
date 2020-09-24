@@ -68,16 +68,16 @@ debug('コメント:'.print_r($cmt,true));
                     <div class="main-detail flex">
                         <div class="item-img-wrap">
                             <div class="item-main-img">
-                                <img src="<?php echo sanitize(showimg($viewdata['pic1'])); ?>" alt="">
+                                <img id="js-main-img" src="<?php echo sanitize(showimg($viewdata['pic1'])); ?>" alt="">
                                 <?php if($viewdata['sold_item'] == 1){ ?>
                                 <dd class="sold-item"></dd>
                                 <dd class="sold-word">SOLD</dd>
                                 <?php } ?>
                             </div>
                             <div class="item-sub-wrap flex">
-                                <div class="sub-img"><img src="<?php echo sanitize(showimg($viewdata['pic1'])); ?>" alt=""></div>
-                                <div class="sub-img"><img src="<?php echo sanitize(showimg($viewdata['pic2'])); ?>" alt=""></div>
-                                <div class="sub-img"><img src="<?php echo sanitize(showimg($viewdata['pic3'])); ?>" alt=""></div>
+                                <div class="sub-img"><img class="item-sub-img" src="<?php echo sanitize(showimg($viewdata['pic1'])); ?>" alt=""></div>
+                                <div class="sub-img"><img class="item-sub-img" src="<?php echo sanitize(showimg($viewdata['pic2'])); ?>" alt=""></div>
+                                <div class="sub-img"><img class="item-sub-img" src="<?php echo sanitize(showimg($viewdata['pic3'])); ?>" alt=""></div>
                             </div>
                         </div>
                         <table class="item-table">

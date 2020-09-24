@@ -1,45 +1,732 @@
-[16-Jun-2020 21:11:56 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:12:11 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:12:43 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:13:09 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:17:20 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:18:30 Asia/Tokyo] PHP Warning:  Use of undefined constant UPLOAD_INI_SIZE - assumed 'UPLOAD_INI_SIZE' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/tshop/function.php on line 506
-[16-Jun-2020 21:18:30 Asia/Tokyo] PHP Warning:  Use of undefined constant UPLOAD_FORM_SIZE - assumed 'UPLOAD_FORM_SIZE' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/tshop/function.php on line 507
-[16-Jun-2020 21:22:18 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:22:26 Asia/Tokyo] PHP Warning:  Use of undefined constant UPLOAD_INI_SIZE - assumed 'UPLOAD_INI_SIZE' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/tshop/function.php on line 506
-[16-Jun-2020 21:22:26 Asia/Tokyo] PHP Warning:  Use of undefined constant UPLOAD_FORM_SIZE - assumed 'UPLOAD_FORM_SIZE' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/tshop/function.php on line 507
-[16-Jun-2020 21:22:38 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:26:29 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:28:54 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:29:28 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:30:11 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:31:08 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:31:22 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:37:13 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:37:30 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:39:38 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:39:56 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:40:26 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:41:18 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:44:23 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:44:28 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:49:06 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:53:09 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:53:31 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:54:03 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[16-Jun-2020 21:54:53 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[17-Jun-2020 16:31:29 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[17-Jun-2020 16:38:21 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[17-Jun-2020 16:40:35 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[17-Jun-2020 16:46:53 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:28:55 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:30:46 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:31:37 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:31:44 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:34:56 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:36:07 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:36:33 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:38:36 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:40:05 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:49:12 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
-[19-Jun-2020 18:49:21 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
+[07-Sep-2020 19:33:28 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[07-Sep-2020 19:33:37 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[07-Sep-2020 19:33:53 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[07-Sep-2020 19:36:10 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[07-Sep-2020 19:36:14 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[07-Sep-2020 19:37:13 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
+
+
+[07-Sep-2020 21:11:44 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
+[07-Sep-2020 21:11:53 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /Applications/MAMP/htdocs/tshop/function.php:436
+Stack trace:
+#0 /Applications/MAMP/htdocs/tshop/postlist.php(27): getpostlist(0, '', '', '', '', '', '', '4', '', '', '', '')
+#1 {main}
+  thrown in /Applications/MAMP/htdocs/tshop/function.php on line 436
+[07-Sep-2020 21:20:12 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:20:12 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:20:12 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:20:12 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:20:12 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:20:54 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:20:54 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:20:54 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:20:54 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:20:54 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:22:05 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:05 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:05 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:05 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:22:05 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:22:09 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:09 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:09 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:09 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:22:09 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:22:13 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:13 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:13 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:13 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:22:13 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:22:21 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:21 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:21 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:22:21 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:22:21 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE name LIKE "%パソコン%" AND status_id=3 OR status_id=5
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE name LIKE "%パソコン%" AND status_id=3 OR status_id=5 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:商品ID:39
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:商品ID:40
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:商品ID:41
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:商品ID:42
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:商品ID:52
+[07-Sep-2020 21:31:06 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE name LIKE "%パソコン%" AND ( status_id=3 OR status_id=5)
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE name LIKE "%パソコン%" AND status_id=3 OR status_id=5 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:商品ID:39
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:商品ID:40
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:商品ID:41
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:商品ID:42
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:商品ID:52
+[07-Sep-2020 21:35:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE name LIKE "%パソコン%" AND ( status_id=3 OR status_id=5)
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE name LIKE "%パソコン%" AND status_id=3 OR status_id=5 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:商品ID:39
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:商品ID:40
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:商品ID:41
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:商品ID:42
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:商品ID:52
+[07-Sep-2020 21:36:04 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE name LIKE "%パソコン%" AND ( status_id=3 OR status_id=5)
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE name LIKE "%パソコン%" AND ( status_id=3 OR status_id=5) LIMIT 20 OFFSET 0
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:37:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:38:40 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:38:40 Asia/Tokyo] デバック:
+[07-Sep-2020 21:38:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:38:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:38:40 Asia/Tokyo] デバック:SQL：SELECT * FROM item AND ( status_id=2)
+[07-Sep-2020 21:38:40 Asia/Tokyo] デバック:クエリ失敗
+[07-Sep-2020 21:38:40 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:38:40 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:40 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:40 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:40 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:38:40 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:38:43 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:38:43 Asia/Tokyo] デバック:
+[07-Sep-2020 21:38:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:38:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:38:43 Asia/Tokyo] デバック:SQL：SELECT * FROM item AND ( status_id=2 OR status_id=4)
+[07-Sep-2020 21:38:43 Asia/Tokyo] デバック:クエリ失敗
+[07-Sep-2020 21:38:43 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:38:43 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:43 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:43 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:43 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:38:43 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:38:46 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:38:46 Asia/Tokyo] デバック:
+[07-Sep-2020 21:38:46 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:38:46 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:38:46 Asia/Tokyo] デバック:SQL：SELECT * FROM item AND ( status_id=2 OR status_id=4 OR status_id=6)
+[07-Sep-2020 21:38:46 Asia/Tokyo] デバック:クエリ失敗
+[07-Sep-2020 21:38:46 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:38:46 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:46 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:46 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:38:46 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:38:46 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:40:33 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:40:33 Asia/Tokyo] デバック:
+[07-Sep-2020 21:40:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:40:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:40:33 Asia/Tokyo] デバック:SQL：SELECT * FROM item AND ( status_id=2 OR status_id=4 OR status_id=6) ORDER BY create_date DESC
+[07-Sep-2020 21:40:33 Asia/Tokyo] デバック:クエリ失敗
+[07-Sep-2020 21:40:33 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:40:33 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:40:33 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:40:33 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:40:33 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:40:33 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 300 AND 1000 AND ( status_id=2 OR status_id=4 OR status_id=6)
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 300 AND 1000 AND ( status_id=2 OR status_id=4 OR status_id=6) LIMIT 20 OFFSET 0
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:40:59 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 1000 AND 5000 AND ( status_id=2 OR status_id=4 OR status_id=6)
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 1000 AND 5000 AND ( status_id=2 OR status_id=4 OR status_id=6) LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:商品ID:28
+[07-Sep-2020 21:41:09 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 5000 AND 10000 AND ( status_id=2 OR status_id=4 OR status_id=6)
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 5000 AND 10000 AND ( status_id=2 OR status_id=4 OR status_id=6) LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:商品ID:29
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:商品ID:30
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:商品ID:31
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:商品ID:32
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:商品ID:33
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:商品ID:34
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:商品ID:35
+[07-Sep-2020 21:41:14 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 5000 AND 10000 AND ( status_id=4)
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 5000 AND 10000 AND ( status_id=4) LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:19 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 5000 AND 10000
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 5000 AND 10000 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:商品ID:29
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:商品ID:30
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:商品ID:31
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:商品ID:32
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:商品ID:33
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:商品ID:34
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:商品ID:35
+[07-Sep-2020 21:41:22 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:商品ID:51
+[07-Sep-2020 21:41:26 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000 AND ( status_id=4)
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000 AND ( status_id=4) LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:31 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:商品ID:51
+[07-Sep-2020 21:41:35 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:-------------postdetail-----------
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:出品者情報:Array
+(
+    [id] => 3
+    [name] => いがたく
+    [email] => igataku.0927@gmail.com
+    [password] => $2y$10$l4uB.4fh3SIxmS.dBPDVNez9/ZVf6ASPOuAic8gd/4Wlrv5xuq8uC
+    [address] => 
+    [zip] => 0
+    [tel] => 
+    [age] => 0
+    [intro] => 
+    [pic] => uploads/43922993bb5be1057baf303c759eec1002b7eb83.jpeg
+    [create_date] => 2020-06-13 14:49:30
+    [update_date] => 2020-06-13 14:49:30
+    [delete_flg] => 0
+    [login_time] => 2020-06-13 14:49:30
+)
+
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:コメント:Array
+(
+)
+
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:ユーザーID:3
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:36 Asia/Tokyo] デバック:気に入ってない
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:商品ID:51
+[07-Sep-2020 21:41:37 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000 AND ( status_id=3)
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE price BETWEEN 10000 AND 30000 AND ( status_id=3) LIMIT 20 OFFSET 0
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:商品ID:51
+[07-Sep-2020 21:41:40 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:50 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:41:50 Asia/Tokyo] デバック:
+[07-Sep-2020 21:41:50 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:50 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:41:50 Asia/Tokyo] デバック:SQL：SELECT * FROM item AND ( status_id=1 OR status_id=2 OR status_id=3 OR status_id=4 OR status_id=5 OR status_id=6)
+[07-Sep-2020 21:41:50 Asia/Tokyo] デバック:クエリ失敗
+[07-Sep-2020 21:41:50 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:41:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:41:50 Asia/Tokyo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:41:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 132
+[07-Sep-2020 21:41:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 134
+[07-Sep-2020 21:41:50 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type bool in /Applications/MAMP/htdocs/tshop/postlist.php on line 161
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=1 OR status_id=2 OR status_id=3 OR status_id=4 OR status_id=5 OR status_id=6
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=1 OR status_id=2 OR status_id=3 OR status_id=4 OR status_id=5 OR status_id=6 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:28
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:29
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:30
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:31
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:32
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:33
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:34
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:35
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:39
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:40
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:41
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:42
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:43
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:44
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:45
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:46
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:商品ID:47
+[07-Sep-2020 21:48:33 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=3
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=3 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:43
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:44
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:45
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:46
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:47
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:48
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:49
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:50
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:商品ID:51
+[07-Sep-2020 21:48:43 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:-------------postdetail-----------
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:商品ID:48
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:出品者情報:Array
+(
+    [id] => 5
+    [name] => アップル大好きくん
+    [email] => apple@gmail.com
+    [password] => $2y$10$TcQgxTY5VeG8Vs0kTB353OLE3hUE.uA8iVET2xZUGSCa2UWcJ3dPu
+    [address] => fukusima
+    [zip] => 9690000
+    [tel] => 00000000000
+    [age] => 0
+    [intro] => アップル好きです
+    [pic] => uploads/3446c6cf7f2abf2563092da7d6b1868304764f12.png
+    [create_date] => 2020-06-16 21:28:54
+    [update_date] => 2020-06-16 21:28:54
+    [delete_flg] => 0
+    [login_time] => 2020-06-16 21:28:54
+)
+
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:コメント:Array
+(
+)
+
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:ユーザーID:3
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:商品ID:48
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:48 Asia/Tokyo] デバック:気に入ってない
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=3
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=3 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:43
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:44
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:45
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:46
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:47
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:48
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:49
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:50
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:商品ID:51
+[07-Sep-2020 21:48:49 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:-------------postdetail-----------
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:商品ID:45
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:出品者情報:Array
+(
+    [id] => 2
+    [name] => 
+    [email] => takumi@gmail.com
+    [password] => $2y$10$7CDVWCZQCE8pmzaOvHljsepSgTWYXQetOwb9J4FCWI/aCvXrSA0SC
+    [address] => 
+    [zip] => 0
+    [tel] => 
+    [age] => 0
+    [intro] => 
+    [pic] => 0
+    [create_date] => 2020-06-12 18:46:44
+    [update_date] => 2020-06-12 18:46:44
+    [delete_flg] => 0
+    [login_time] => 2020-06-12 18:46:44
+)
+
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:コメント:Array
+(
+)
+
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:ユーザーID:3
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:商品ID:45
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:50 Asia/Tokyo] デバック:気に入ってない
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=3
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=3 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:43
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:44
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:45
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:46
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:47
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:48
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:49
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:50
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:商品ID:51
+[07-Sep-2020 21:48:51 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:-------------postdetail-----------
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:出品者情報:Array
+(
+    [id] => 3
+    [name] => いがたく
+    [email] => igataku.0927@gmail.com
+    [password] => $2y$10$l4uB.4fh3SIxmS.dBPDVNez9/ZVf6ASPOuAic8gd/4Wlrv5xuq8uC
+    [address] => 
+    [zip] => 0
+    [tel] => 
+    [age] => 0
+    [intro] => 
+    [pic] => uploads/43922993bb5be1057baf303c759eec1002b7eb83.jpeg
+    [create_date] => 2020-06-13 14:49:30
+    [update_date] => 2020-06-13 14:49:30
+    [delete_flg] => 0
+    [login_time] => 2020-06-13 14:49:30
+)
+
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:コメント:Array
+(
+)
+
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:ユーザーID:3
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:52 Asia/Tokyo] デバック:気に入ってない
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=3
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=3 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:36
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:37
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:38
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:43
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:44
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:45
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:46
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:47
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:48
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:49
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:50
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:商品ID:51
+[07-Sep-2020 21:48:53 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=2
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=2 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:商品ID:28
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:商品ID:29
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:商品ID:30
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:商品ID:31
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:商品ID:32
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:商品ID:33
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:商品ID:34
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:商品ID:35
+[07-Sep-2020 21:48:56 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:-------------postdetail-----------
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:商品ID:32
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:出品者情報:Array
+(
+    [id] => 4
+    [name] => ジョージ
+    [email] => taku@gmail.com
+    [password] => $2y$10$PZyrVPShNZIMiv/DAAPkjuImpcV81nrWkFcVy3B0/nZhbFOSk6XyW
+    [address] => 猿山
+    [zip] => 9690000
+    [tel] => 00000000000
+    [age] => 0
+    [intro] => 猿ですよろしく
+    [pic] => uploads/46a90e4a392a463bb390cff6a435f45d107bb1f9.jpeg
+    [create_date] => 2020-06-15 21:16:57
+    [update_date] => 2020-06-15 21:16:57
+    [delete_flg] => 0
+    [login_time] => 2020-06-15 21:16:57
+)
+
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:コメント:Array
+(
+)
+
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:ユーザーID:3
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:商品ID:32
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:57 Asia/Tokyo] デバック:気に入ってない
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:--------------posilist---------
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=2
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:SQL：SELECT * FROM item WHERE  status_id=2 LIMIT 20 OFFSET 0
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:現在ページ:1
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:28
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:29
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:30
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:31
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:32
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:33
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:34
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:35
+[07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功

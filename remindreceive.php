@@ -29,14 +29,14 @@ if(!empty($_POST)){
                     $data = array(password_hash($password,PASSWORD_DEFAULT),$_SESSION['auth_email']);
                     $stmt = query($dbh,$sql,$data);
                     if($stmt){
-                        $from = 'info@tshop.com';
+                        $from = 'takumidiary.0927@gmail.com';
                         $to = $_SESSION['auth_email'];
                         $subject = 'パスワード再発行認証';
                         $comment = <<<EOT
                         本メールアドレス宛にパスワードの再発行を致しました。
                         下記のURLにて再発行パスワードをご入力頂き、ログインください。
             
-                        ログインページ：http://localhost:8888/tshop/login.php
+                        ログインページ：http://takumidiary.com/tshop/login.php
                         再発行パスワード：{$password}
                         ※ログイン後、パスワードのご変更をお願い致します
                         EOT;

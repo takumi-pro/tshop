@@ -336,8 +336,12 @@ form p,.form-bottom p,.form-middle a,label{
     padding: 0 20px;
 }
 .cate-title h2{
-    font-size: 24px;
+    font-size: 32px;
     font-weight: normal;
+    border-bottom: 1px solid #333;
+}
+.newitem-nothing{
+    color: #aaa;
 }
 .cate-title{
     margin-bottom: 14px;
@@ -412,6 +416,12 @@ dl{
     min-height: 48px;
     display: block;
     background-color: #fff;
+    transition: all .3s;
+}
+.sidebar-inner a:hover{
+    background-color: #f7f7f7;
+    padding: 16px 16px 16px 20px;
+    transition: all .3s;
 }
 .main-page-wrap,.prof-page-wrap{
     width: 700px;
@@ -884,6 +894,9 @@ dl{
     font-size: 14px;
     color: #fff;
 }
+.comment-btn:hover{
+    opacity: 0.5;
+}
 .comment-view{
     display: flex;
     justify-content: space-between;
@@ -953,6 +966,9 @@ dl{
     margin-top: -23px;
     margin-bottom: 20px;
     display: inline-block;
+}
+.send-form-middle form{
+    padding: 0 80px 24px 80px;
 }
 
 /*----------msg-----------*/
@@ -1093,4 +1109,26 @@ footer{
 }
 footer a{
     color: #fff;
+}
+
+
+.main-des-inner{
+    padding-top: 70px;
+    padding-bottom: 60px;
+    background-color: #fff;
+}
+.main-des-inner p{
+    text-align: center;
+    font-size: 24px;
+}
+.try-wrap{
+    margin-top:15px;
+}
+.try-btn{
+    color: #fff;
+    background-color: #ff0211;
+    font-size: 18px;
+    padding: 5px 12px;
+    vertical-align: middle;
+    border-radius: 5px;
 }

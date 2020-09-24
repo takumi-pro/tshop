@@ -1,5 +1,5 @@
 <footer id="footer">
-  Copyright <a href="http://webukatu.com/">ウェブカツ!!WEBサービス部</a>. All Rights Reserved.
+  Copyright <a href="http://takumidiary.com">tshop | takumidiary.com</a>
 </footer>
 
 <script src="js/vendor/jquery-2.2.2.min.js"></script>
@@ -75,6 +75,12 @@
         });
       });
     }
+
+    var $switchImgSubs = $('.item-sub-img'),
+        $switchImgMain = $('#js-main-img');
+    $switchImgSubs.on('click',function(e){
+      $switchImgMain.attr('src',$(this).attr('src'));
+    });
 
   });
 </script>

@@ -5,7 +5,7 @@ debug('-----------logout------------');
 require('auth.php');
 if(!empty($_POST)){
     session_destroy();
-    header("Location:top.php");
+    header("Location:index.php");
 }
 ?>
 
