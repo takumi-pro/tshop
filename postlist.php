@@ -134,9 +134,9 @@ debug('現在ページ:'.$nowpage);
                             <?php if($dbpostdata['total'] != 0){ ?>
                             <div class="search-items">
                                 <ul class="flex">
+                                    <li>
                                 <?php foreach($dbpostdata['data'] as $key => $val): 
                                     $sold = getpostone($val['id']); ?>
-                                    <li>
                                         <a href="postdetail.php<?php echo (!empty(append())) ? append().'&p_id='.$val['id'] : '?p_id='.$val['id']; ?>">
                                             <dl style="position:relative;">
                                                 <dt><img src="<?php echo sanitize($val['pic1']); ?>" alt=""></dt>

@@ -730,3 +730,1642 @@ Stack trace:
 [07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
 [07-Sep-2020 21:48:58 Asia/Tokyo] デバック:商品ID:35
 [07-Sep-2020 21:48:58 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:16:46 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:17:38 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:17:38 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:17:38 Asia/Tokyo] デバック:新着情報：Array
+(
+    [0] => Array
+        (
+            [id] => 51
+            [0] => 51
+            [price] => 20000
+            [1] => 20000
+            [name] => 高級アダプタ
+            [2] => 高級アダプタ
+            [des] => 高いです
+            [3] => 高いです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:54:03
+            [5] => 2020-06-16 21:54:03
+        )
+
+    [1] => Array
+        (
+            [id] => 50
+            [0] => 50
+            [price] => 4000
+            [1] => 4000
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+持っていないと試験で詰みます。
+            [3] => 高専生の必需品
+持っていないと試験で詰みます。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:49:06
+            [5] => 2020-06-16 21:49:06
+        )
+
+    [2] => Array
+        (
+            [id] => 49
+            [0] => 49
+            [price] => 3000
+            [1] => 3000
+            [name] => 変換アダプタ
+            [2] => 変換アダプタ
+            [des] => 変換アダプタです
+            [3] => 変換アダプタです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:40:26
+            [5] => 2020-06-16 21:40:26
+        )
+
+    [3] => Array
+        (
+            [id] => 48
+            [0] => 48
+            [price] => 2300
+            [1] => 2300
+            [name] => 変換アダプタ
+            [2] => 変換アダプタ
+            [des] => 変換アダプタです
+使いやすいです
+            [3] => 変換アダプタです
+使いやすいです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:30:11
+            [5] => 2020-06-16 21:30:11
+        )
+
+    [4] => Array
+        (
+            [id] => 47
+            [0] => 47
+            [price] => 2400
+            [1] => 2400
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+これがないと試験で敗北します。
+            [3] => 高専生の必需品
+これがないと試験で敗北します。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:22:38
+            [5] => 2020-06-16 21:22:38
+        )
+
+    [5] => Array
+        (
+            [id] => 46
+            [0] => 46
+            [price] => 2400
+            [1] => 2400
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+これがないと試験で敗北します。
+            [3] => 高専生の必需品
+これがないと試験で敗北します。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:22:18
+            [5] => 2020-06-16 21:22:18
+        )
+
+    [6] => Array
+        (
+            [id] => 45
+            [0] => 45
+            [price] => 1200
+            [1] => 1200
+            [name] => PHPの教科書
+            [2] => PHPの教科書
+            [des] => わかりやすいですが、あまり使いませんでした。
+            [3] => わかりやすいですが、あまり使いませんでした。
+            [pic1] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [4] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [create_date] => 2020-06-16 21:09:14
+            [5] => 2020-06-16 21:09:14
+        )
+
+    [7] => Array
+        (
+            [id] => 44
+            [0] => 44
+            [price] => 1200
+            [1] => 1200
+            [name] => PHPの教科書
+            [2] => PHPの教科書
+            [des] => わかりやすいですが、あまり使いませんでした。
+            [3] => わかりやすいですが、あまり使いませんでした。
+            [pic1] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [4] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [create_date] => 2020-06-16 21:09:13
+            [5] => 2020-06-16 21:09:13
+        )
+
+    [8] => Array
+        (
+            [id] => 43
+            [0] => 43
+            [price] => 1200
+            [1] => 1200
+            [name] => 
+            [2] => 
+            [des] => わかりやすいですが、あまり使いませんでした。
+            [3] => わかりやすいですが、あまり使いませんでした。
+            [pic1] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [4] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [create_date] => 2020-06-16 21:09:10
+            [5] => 2020-06-16 21:09:10
+        )
+
+    [9] => Array
+        (
+            [id] => 42
+            [0] => 42
+            [price] => 50000
+            [1] => 50000
+            [name] => 古着
+            [2] => 古着
+            [des] => 高級です
+            [3] => 高級です
+            [pic1] => uploads/c41660f254ad8f928368fadd5bce128b60474b13.jpeg
+            [4] => uploads/c41660f254ad8f928368fadd5bce128b60474b13.jpeg
+            [create_date] => 2020-06-16 21:07:34
+            [5] => 2020-06-16 21:07:34
+        )
+
+)
+
+[26-Sep-2020 15:17:47 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[26-Sep-2020 15:17:47 Asia/Tokyo] デバック:新着情報：
+[26-Sep-2020 15:18:01 Asia/Tokyo] デバック:---------ログイン----------
+[26-Sep-2020 15:18:01 Asia/Tokyo] デバック:未ログイン
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:---------ログイン----------
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:未ログイン
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:バリデーションok
+[26-Sep-2020 15:18:07 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:パスワードがマッチしました
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:ログイン保持なし
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:セッション変数中身:Array
+(
+    [login_time] => 1601101087
+    [user_id] => 3
+    [login_limit] => 3600
+)
+
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:ログイン済
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:有効期限内
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:-----------マイページ----------
+[26-Sep-2020 15:18:07 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:自分情報:Array
+(
+    [id] => 3
+    [name] => いがたく
+    [email] => igataku.0927@gmail.com
+    [password] => $2y$10$l4uB.4fh3SIxmS.dBPDVNez9/ZVf6ASPOuAic8gd/4Wlrv5xuq8uC
+    [address] => 
+    [zip] => 0
+    [tel] => 
+    [age] => 0
+    [intro] => 
+    [pic] => uploads/43922993bb5be1057baf303c759eec1002b7eb83.jpeg
+    [create_date] => 2020-06-13 14:49:30
+    [update_date] => 2020-06-13 14:49:30
+    [delete_flg] => 0
+    [login_time] => 2020-06-13 14:49:30
+)
+
+[26-Sep-2020 15:18:07 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:出品商品情報:Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [0] => 28
+            [name] => プロフィールアイコン
+            [1] => プロフィールアイコン
+            [category_id] => 2
+            [2] => 2
+            [des] => 長持ちします
+            [3] => 長持ちします
+            [pic1] => uploads/43922993bb5be1057baf303c759eec1002b7eb83.jpeg
+            [4] => uploads/43922993bb5be1057baf303c759eec1002b7eb83.jpeg
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 4000
+            [7] => 4000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-14 15:28:02
+            [9] => 2020-06-14 15:28:02
+            [update_date] => 2020-06-14 15:28:02
+            [10] => 2020-06-14 15:28:02
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 2
+            [12] => 2
+            [sold_item] => 1
+            [13] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 36
+            [0] => 36
+            [name] => パソコン
+            [1] => パソコン
+            [category_id] => 8
+            [2] => 8
+            [des] => 2年ほど使用しました
+            [3] => 2年ほど使用しました
+            [pic1] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [4] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 30000
+            [7] => 30000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-16 21:05:31
+            [9] => 2020-06-16 21:05:31
+            [update_date] => 2020-06-16 21:05:31
+            [10] => 2020-06-16 21:05:31
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 3
+            [12] => 3
+            [sold_item] => 1
+            [13] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 37
+            [0] => 37
+            [name] => パソコン
+            [1] => パソコン
+            [category_id] => 8
+            [2] => 8
+            [des] => 2年ほど使用しました
+            [3] => 2年ほど使用しました
+            [pic1] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [4] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 30000
+            [7] => 30000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-16 21:05:40
+            [9] => 2020-06-16 21:05:40
+            [update_date] => 2020-06-16 21:05:40
+            [10] => 2020-06-16 21:05:40
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 3
+            [12] => 3
+            [sold_item] => 0
+            [13] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 38
+            [0] => 38
+            [name] => パソコン
+            [1] => パソコン
+            [category_id] => 8
+            [2] => 8
+            [des] => 2年ほど使用しました
+            [3] => 2年ほど使用しました
+            [pic1] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [4] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 30000
+            [7] => 30000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-16 21:05:41
+            [9] => 2020-06-16 21:05:41
+            [update_date] => 2020-06-16 21:05:41
+            [10] => 2020-06-16 21:05:41
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 3
+            [12] => 3
+            [sold_item] => 0
+            [13] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 52
+            [0] => 52
+            [name] => アダプタ
+            [1] => アダプタ
+            [category_id] => 8
+            [2] => 8
+            [des] => アダプタです
+            [3] => アダプタです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 2000
+            [7] => 2000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-19 18:36:33
+            [9] => 2020-06-19 18:36:33
+            [update_date] => 2020-06-19 18:36:33
+            [10] => 2020-06-19 18:36:33
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 5
+            [12] => 5
+            [sold_item] => 0
+            [13] => 0
+        )
+
+)
+
+[26-Sep-2020 15:18:07 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:メッセージ情報:Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [0] => 14
+            [sell_user] => 4
+            [1] => 4
+            [buy_user] => 3
+            [2] => 3
+            [item_id] => 29
+            [3] => 29
+            [create_date] => 2020-06-15 21:58:12
+            [4] => 2020-06-15 21:58:12
+            [update_date] => 2020-06-15 21:58:12
+            [5] => 2020-06-15 21:58:12
+            [delete_flg] => 0
+            [6] => 0
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 35
+                            [0] => 35
+                            [send_date] => 2020-09-06 13:17:17
+                            [1] => 2020-09-06 13:17:17
+                            [to_user] => 4
+                            [2] => 4
+                            [from_user] => 3
+                            [3] => 3
+                            [msg] => わかりました
+                            [4] => わかりました
+                            [create_date] => 2020-09-06 13:17:17
+                            [5] => 2020-09-06 13:17:17
+                            [update_date] => 2020-09-06 13:17:17
+                            [6] => 2020-09-06 13:17:17
+                            [delete_flg] => 0
+                            [7] => 0
+                            [item_id] => 29
+                            [8] => 29
+                            [bord_id] => 14
+                            [9] => 14
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 27
+                            [0] => 27
+                            [send_date] => 2020-06-15 22:38:19
+                            [1] => 2020-06-15 22:38:19
+                            [to_user] => 3
+                            [2] => 3
+                            [from_user] => 4
+                            [3] => 4
+                            [msg] => 購入ありがとうございます
+発送までしばらくお待ちください
+                            [4] => 購入ありがとうございます
+発送までしばらくお待ちください
+                            [create_date] => 2020-06-15 22:38:19
+                            [5] => 2020-06-15 22:38:19
+                            [update_date] => 2020-06-15 22:38:19
+                            [6] => 2020-06-15 22:38:19
+                            [delete_flg] => 0
+                            [7] => 0
+                            [item_id] => 29
+                            [8] => 29
+                            [bord_id] => 14
+                            [9] => 14
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 26
+                            [0] => 26
+                            [send_date] => 2020-06-15 21:58:35
+                            [1] => 2020-06-15 21:58:35
+                            [to_user] => 4
+                            [2] => 4
+                            [from_user] => 3
+                            [3] => 3
+                            [msg] => 商品購入しました！
+                            [4] => 商品購入しました！
+                            [create_date] => 2020-06-15 21:58:35
+                            [5] => 2020-06-15 21:58:35
+                            [update_date] => 2020-06-15 21:58:35
+                            [6] => 2020-06-15 21:58:35
+                            [delete_flg] => 0
+                            [7] => 0
+                            [item_id] => 29
+                            [8] => 29
+                            [bord_id] => 14
+                            [9] => 14
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 18
+            [0] => 18
+            [sell_user] => 3
+            [1] => 3
+            [buy_user] => 9
+            [2] => 9
+            [item_id] => 36
+            [3] => 36
+            [create_date] => 2020-09-07 19:51:08
+            [4] => 2020-09-07 19:51:08
+            [update_date] => 2020-09-07 19:51:08
+            [5] => 2020-09-07 19:51:08
+            [delete_flg] => 0
+            [6] => 0
+            [msg] => Array
+                (
+                )
+
+        )
+
+)
+
+[26-Sep-2020 15:18:07 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:商品ID:
+[26-Sep-2020 15:18:07 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:商品ID:29
+[26-Sep-2020 15:18:07 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:商品ID:36
+[26-Sep-2020 15:18:07 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:07 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:--------------posilist---------
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:SQL：SELECT * FROM item
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:SQL：SELECT * FROM item LIMIT 20 OFFSET 0
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:現在ページ:1
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:28
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:29
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:30
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:31
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:32
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:33
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:34
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:35
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:36
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:37
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:38
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:39
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:40
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:41
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:42
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:43
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:44
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:45
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:46
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:商品ID:47
+[26-Sep-2020 15:18:28 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:28 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:--------------posilist---------
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:SQL：SELECT * FROM item ORDER BY create_date DESC
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:SQL：SELECT * FROM item ORDER BY create_date DESC LIMIT 20 OFFSET 0
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:現在ページ:1
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:52
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:51
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:50
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:49
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:48
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:47
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:46
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:45
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:44
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:43
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:42
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:41
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:40
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:39
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:38
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:37
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:36
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:29
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:30
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:商品ID:31
+[26-Sep-2020 15:18:37 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:37 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:41 Asia/Tokyo] デバック:ログイン済
+[26-Sep-2020 15:18:41 Asia/Tokyo] デバック:有効期限内
+[26-Sep-2020 15:18:41 Asia/Tokyo] デバック:-------------post-----------
+[26-Sep-2020 15:18:41 Asia/Tokyo] デバック:GET:Array
+(
+)
+
+[26-Sep-2020 15:18:41 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:41 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:18:41 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:18:41 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:ログイン済
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:有効期限内
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:-------------post-----------
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:GET:Array
+(
+)
+
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:POST情報:Array
+(
+    [MAX_FILE_SIZE] => 3145728
+    [name] => アイコン
+    [des] => アイコンです
+    [category_id] => 6
+    [status_id] => 1
+    [price] => 100
+    [submit] => 出品する
+)
+
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:FILE情報:Array
+(
+    [pic1] => Array
+        (
+            [name] => my.jpg
+            [type] => image/jpeg
+            [tmp_name] => /Applications/MAMP/tmp/php/phpWoJJ6K
+            [error] => 0
+            [size] => 110281
+        )
+
+    [pic2] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+    [pic3] => Array
+        (
+            [name] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:ファイルは正常にアップロードされました
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:ファイルパス:uploads/c2473ef622763559ad10e77773ebf07f732ee1b4.jpeg
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:バリデーションok
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:登録
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:マイページへ
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:ログイン済
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:有効期限内
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:-----------マイページ----------
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:自分情報:Array
+(
+    [id] => 3
+    [name] => いがたく
+    [email] => igataku.0927@gmail.com
+    [password] => $2y$10$l4uB.4fh3SIxmS.dBPDVNez9/ZVf6ASPOuAic8gd/4Wlrv5xuq8uC
+    [address] => 
+    [zip] => 0
+    [tel] => 
+    [age] => 0
+    [intro] => 
+    [pic] => uploads/43922993bb5be1057baf303c759eec1002b7eb83.jpeg
+    [create_date] => 2020-06-13 14:49:30
+    [update_date] => 2020-06-13 14:49:30
+    [delete_flg] => 0
+    [login_time] => 2020-06-13 14:49:30
+)
+
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:出品商品情報:Array
+(
+    [0] => Array
+        (
+            [id] => 28
+            [0] => 28
+            [name] => プロフィールアイコン
+            [1] => プロフィールアイコン
+            [category_id] => 2
+            [2] => 2
+            [des] => 長持ちします
+            [3] => 長持ちします
+            [pic1] => uploads/43922993bb5be1057baf303c759eec1002b7eb83.jpeg
+            [4] => uploads/43922993bb5be1057baf303c759eec1002b7eb83.jpeg
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 4000
+            [7] => 4000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-14 15:28:02
+            [9] => 2020-06-14 15:28:02
+            [update_date] => 2020-06-14 15:28:02
+            [10] => 2020-06-14 15:28:02
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 2
+            [12] => 2
+            [sold_item] => 1
+            [13] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 36
+            [0] => 36
+            [name] => パソコン
+            [1] => パソコン
+            [category_id] => 8
+            [2] => 8
+            [des] => 2年ほど使用しました
+            [3] => 2年ほど使用しました
+            [pic1] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [4] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 30000
+            [7] => 30000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-16 21:05:31
+            [9] => 2020-06-16 21:05:31
+            [update_date] => 2020-06-16 21:05:31
+            [10] => 2020-06-16 21:05:31
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 3
+            [12] => 3
+            [sold_item] => 1
+            [13] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 37
+            [0] => 37
+            [name] => パソコン
+            [1] => パソコン
+            [category_id] => 8
+            [2] => 8
+            [des] => 2年ほど使用しました
+            [3] => 2年ほど使用しました
+            [pic1] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [4] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 30000
+            [7] => 30000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-16 21:05:40
+            [9] => 2020-06-16 21:05:40
+            [update_date] => 2020-06-16 21:05:40
+            [10] => 2020-06-16 21:05:40
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 3
+            [12] => 3
+            [sold_item] => 0
+            [13] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 38
+            [0] => 38
+            [name] => パソコン
+            [1] => パソコン
+            [category_id] => 8
+            [2] => 8
+            [des] => 2年ほど使用しました
+            [3] => 2年ほど使用しました
+            [pic1] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [4] => uploads/7585a55e85dcb7d51544281f39ca160cf8bef9b6.png
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 30000
+            [7] => 30000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-16 21:05:41
+            [9] => 2020-06-16 21:05:41
+            [update_date] => 2020-06-16 21:05:41
+            [10] => 2020-06-16 21:05:41
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 3
+            [12] => 3
+            [sold_item] => 0
+            [13] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 52
+            [0] => 52
+            [name] => アダプタ
+            [1] => アダプタ
+            [category_id] => 8
+            [2] => 8
+            [des] => アダプタです
+            [3] => アダプタです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 2000
+            [7] => 2000
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-06-19 18:36:33
+            [9] => 2020-06-19 18:36:33
+            [update_date] => 2020-06-19 18:36:33
+            [10] => 2020-06-19 18:36:33
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 5
+            [12] => 5
+            [sold_item] => 0
+            [13] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 53
+            [0] => 53
+            [name] => アイコン
+            [1] => アイコン
+            [category_id] => 6
+            [2] => 6
+            [des] => アイコンです
+            [3] => アイコンです
+            [pic1] => uploads/c2473ef622763559ad10e77773ebf07f732ee1b4.jpeg
+            [4] => uploads/c2473ef622763559ad10e77773ebf07f732ee1b4.jpeg
+            [pic2] => 
+            [5] => 
+            [pic3] => 
+            [6] => 
+            [price] => 100
+            [7] => 100
+            [user_id] => 3
+            [8] => 3
+            [create_date] => 2020-09-26 15:19:11
+            [9] => 2020-09-26 15:19:11
+            [update_date] => 2020-09-26 15:19:11
+            [10] => 2020-09-26 15:19:11
+            [delete_flg] => 0
+            [11] => 0
+            [status_id] => 1
+            [12] => 1
+            [sold_item] => 0
+            [13] => 0
+        )
+
+)
+
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:メッセージ情報:Array
+(
+    [0] => Array
+        (
+            [id] => 14
+            [0] => 14
+            [sell_user] => 4
+            [1] => 4
+            [buy_user] => 3
+            [2] => 3
+            [item_id] => 29
+            [3] => 29
+            [create_date] => 2020-06-15 21:58:12
+            [4] => 2020-06-15 21:58:12
+            [update_date] => 2020-06-15 21:58:12
+            [5] => 2020-06-15 21:58:12
+            [delete_flg] => 0
+            [6] => 0
+            [msg] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 35
+                            [0] => 35
+                            [send_date] => 2020-09-06 13:17:17
+                            [1] => 2020-09-06 13:17:17
+                            [to_user] => 4
+                            [2] => 4
+                            [from_user] => 3
+                            [3] => 3
+                            [msg] => わかりました
+                            [4] => わかりました
+                            [create_date] => 2020-09-06 13:17:17
+                            [5] => 2020-09-06 13:17:17
+                            [update_date] => 2020-09-06 13:17:17
+                            [6] => 2020-09-06 13:17:17
+                            [delete_flg] => 0
+                            [7] => 0
+                            [item_id] => 29
+                            [8] => 29
+                            [bord_id] => 14
+                            [9] => 14
+                        )
+
+                    [1] => Array
+                        (
+                            [id] => 27
+                            [0] => 27
+                            [send_date] => 2020-06-15 22:38:19
+                            [1] => 2020-06-15 22:38:19
+                            [to_user] => 3
+                            [2] => 3
+                            [from_user] => 4
+                            [3] => 4
+                            [msg] => 購入ありがとうございます
+発送までしばらくお待ちください
+                            [4] => 購入ありがとうございます
+発送までしばらくお待ちください
+                            [create_date] => 2020-06-15 22:38:19
+                            [5] => 2020-06-15 22:38:19
+                            [update_date] => 2020-06-15 22:38:19
+                            [6] => 2020-06-15 22:38:19
+                            [delete_flg] => 0
+                            [7] => 0
+                            [item_id] => 29
+                            [8] => 29
+                            [bord_id] => 14
+                            [9] => 14
+                        )
+
+                    [2] => Array
+                        (
+                            [id] => 26
+                            [0] => 26
+                            [send_date] => 2020-06-15 21:58:35
+                            [1] => 2020-06-15 21:58:35
+                            [to_user] => 4
+                            [2] => 4
+                            [from_user] => 3
+                            [3] => 3
+                            [msg] => 商品購入しました！
+                            [4] => 商品購入しました！
+                            [create_date] => 2020-06-15 21:58:35
+                            [5] => 2020-06-15 21:58:35
+                            [update_date] => 2020-06-15 21:58:35
+                            [6] => 2020-06-15 21:58:35
+                            [delete_flg] => 0
+                            [7] => 0
+                            [item_id] => 29
+                            [8] => 29
+                            [bord_id] => 14
+                            [9] => 14
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [id] => 18
+            [0] => 18
+            [sell_user] => 3
+            [1] => 3
+            [buy_user] => 9
+            [2] => 9
+            [item_id] => 36
+            [3] => 36
+            [create_date] => 2020-09-07 19:51:08
+            [4] => 2020-09-07 19:51:08
+            [update_date] => 2020-09-07 19:51:08
+            [5] => 2020-09-07 19:51:08
+            [delete_flg] => 0
+            [6] => 0
+            [msg] => Array
+                (
+                )
+
+        )
+
+)
+
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined index: item_id in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:商品ID:
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:商品ID:29
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:商品ID:36
+[26-Sep-2020 15:19:11 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:11 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:16 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:16 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:16 Asia/Tokyo] デバック:新着情報：Array
+(
+    [0] => Array
+        (
+            [id] => 52
+            [0] => 52
+            [price] => 2000
+            [1] => 2000
+            [name] => アダプタ
+            [2] => アダプタ
+            [des] => アダプタです
+            [3] => アダプタです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-19 18:36:33
+            [5] => 2020-06-19 18:36:33
+        )
+
+    [1] => Array
+        (
+            [id] => 51
+            [0] => 51
+            [price] => 20000
+            [1] => 20000
+            [name] => 高級アダプタ
+            [2] => 高級アダプタ
+            [des] => 高いです
+            [3] => 高いです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:54:03
+            [5] => 2020-06-16 21:54:03
+        )
+
+    [2] => Array
+        (
+            [id] => 50
+            [0] => 50
+            [price] => 4000
+            [1] => 4000
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+持っていないと試験で詰みます。
+            [3] => 高専生の必需品
+持っていないと試験で詰みます。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:49:06
+            [5] => 2020-06-16 21:49:06
+        )
+
+    [3] => Array
+        (
+            [id] => 49
+            [0] => 49
+            [price] => 3000
+            [1] => 3000
+            [name] => 変換アダプタ
+            [2] => 変換アダプタ
+            [des] => 変換アダプタです
+            [3] => 変換アダプタです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:40:26
+            [5] => 2020-06-16 21:40:26
+        )
+
+    [4] => Array
+        (
+            [id] => 48
+            [0] => 48
+            [price] => 2300
+            [1] => 2300
+            [name] => 変換アダプタ
+            [2] => 変換アダプタ
+            [des] => 変換アダプタです
+使いやすいです
+            [3] => 変換アダプタです
+使いやすいです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:30:11
+            [5] => 2020-06-16 21:30:11
+        )
+
+    [5] => Array
+        (
+            [id] => 47
+            [0] => 47
+            [price] => 2400
+            [1] => 2400
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+これがないと試験で敗北します。
+            [3] => 高専生の必需品
+これがないと試験で敗北します。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:22:38
+            [5] => 2020-06-16 21:22:38
+        )
+
+    [6] => Array
+        (
+            [id] => 46
+            [0] => 46
+            [price] => 2400
+            [1] => 2400
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+これがないと試験で敗北します。
+            [3] => 高専生の必需品
+これがないと試験で敗北します。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:22:18
+            [5] => 2020-06-16 21:22:18
+        )
+
+    [7] => Array
+        (
+            [id] => 45
+            [0] => 45
+            [price] => 1200
+            [1] => 1200
+            [name] => PHPの教科書
+            [2] => PHPの教科書
+            [des] => わかりやすいですが、あまり使いませんでした。
+            [3] => わかりやすいですが、あまり使いませんでした。
+            [pic1] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [4] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [create_date] => 2020-06-16 21:09:14
+            [5] => 2020-06-16 21:09:14
+        )
+
+    [8] => Array
+        (
+            [id] => 44
+            [0] => 44
+            [price] => 1200
+            [1] => 1200
+            [name] => PHPの教科書
+            [2] => PHPの教科書
+            [des] => わかりやすいですが、あまり使いませんでした。
+            [3] => わかりやすいですが、あまり使いませんでした。
+            [pic1] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [4] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [create_date] => 2020-06-16 21:09:13
+            [5] => 2020-06-16 21:09:13
+        )
+
+    [9] => Array
+        (
+            [id] => 43
+            [0] => 43
+            [price] => 1200
+            [1] => 1200
+            [name] => 
+            [2] => 
+            [des] => わかりやすいですが、あまり使いませんでした。
+            [3] => わかりやすいですが、あまり使いませんでした。
+            [pic1] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [4] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [create_date] => 2020-06-16 21:09:10
+            [5] => 2020-06-16 21:09:10
+        )
+
+)
+
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:--------------posilist---------
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:SQL：SELECT * FROM item
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:SQL：SELECT * FROM item LIMIT 20 OFFSET 0
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:現在ページ:1
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:28
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:29
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:30
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:31
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:32
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:33
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:34
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:35
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:36
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:37
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:38
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:39
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:40
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:41
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:42
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:43
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:44
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:45
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:46
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:商品ID:47
+[26-Sep-2020 15:19:25 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:25 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:--------------posilist---------
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:SQL：SELECT * FROM item ORDER BY create_date ASC
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:SQL：SELECT * FROM item ORDER BY create_date ASC LIMIT 20 OFFSET 0
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:現在ページ:1
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:28
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:29
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:30
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:31
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:32
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:33
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:34
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:35
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:36
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:37
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:38
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:39
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:40
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:41
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:42
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:43
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:44
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:45
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:46
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:商品ID:47
+[26-Sep-2020 15:19:29 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:29 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:--------------posilist---------
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:SQL：SELECT * FROM item
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:SQL：SELECT * FROM item LIMIT 20 OFFSET 20
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:現在ページ:2
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:商品ID:48
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:商品ID:49
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:商品ID:50
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:商品ID:51
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:商品ID:52
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:商品ID:53
+[26-Sep-2020 15:19:33 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:19:33 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:22:51 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[26-Sep-2020 15:22:51 Asia/Tokyo] デバック:クエリ成功
+[26-Sep-2020 15:22:51 Asia/Tokyo] デバック:新着情報：Array
+(
+    [0] => Array
+        (
+            [id] => 53
+            [0] => 53
+            [price] => 100
+            [1] => 100
+            [name] => アイコン
+            [2] => アイコン
+            [des] => アイコンです
+            [3] => アイコンです
+            [pic1] => uploads/c2473ef622763559ad10e77773ebf07f732ee1b4.jpeg
+            [4] => uploads/c2473ef622763559ad10e77773ebf07f732ee1b4.jpeg
+            [create_date] => 2020-09-26 15:19:11
+            [5] => 2020-09-26 15:19:11
+        )
+
+    [1] => Array
+        (
+            [id] => 52
+            [0] => 52
+            [price] => 2000
+            [1] => 2000
+            [name] => アダプタ
+            [2] => アダプタ
+            [des] => アダプタです
+            [3] => アダプタです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-19 18:36:33
+            [5] => 2020-06-19 18:36:33
+        )
+
+    [2] => Array
+        (
+            [id] => 51
+            [0] => 51
+            [price] => 20000
+            [1] => 20000
+            [name] => 高級アダプタ
+            [2] => 高級アダプタ
+            [des] => 高いです
+            [3] => 高いです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:54:03
+            [5] => 2020-06-16 21:54:03
+        )
+
+    [3] => Array
+        (
+            [id] => 50
+            [0] => 50
+            [price] => 4000
+            [1] => 4000
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+持っていないと試験で詰みます。
+            [3] => 高専生の必需品
+持っていないと試験で詰みます。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:49:06
+            [5] => 2020-06-16 21:49:06
+        )
+
+    [4] => Array
+        (
+            [id] => 49
+            [0] => 49
+            [price] => 3000
+            [1] => 3000
+            [name] => 変換アダプタ
+            [2] => 変換アダプタ
+            [des] => 変換アダプタです
+            [3] => 変換アダプタです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:40:26
+            [5] => 2020-06-16 21:40:26
+        )
+
+    [5] => Array
+        (
+            [id] => 48
+            [0] => 48
+            [price] => 2300
+            [1] => 2300
+            [name] => 変換アダプタ
+            [2] => 変換アダプタ
+            [des] => 変換アダプタです
+使いやすいです
+            [3] => 変換アダプタです
+使いやすいです
+            [pic1] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [4] => uploads/78e0bcc2ed8f4fd1dfc33a28049335373eaded59.jpeg
+            [create_date] => 2020-06-16 21:30:11
+            [5] => 2020-06-16 21:30:11
+        )
+
+    [6] => Array
+        (
+            [id] => 47
+            [0] => 47
+            [price] => 2400
+            [1] => 2400
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+これがないと試験で敗北します。
+            [3] => 高専生の必需品
+これがないと試験で敗北します。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:22:38
+            [5] => 2020-06-16 21:22:38
+        )
+
+    [7] => Array
+        (
+            [id] => 46
+            [0] => 46
+            [price] => 2400
+            [1] => 2400
+            [name] => 関数電卓
+            [2] => 関数電卓
+            [des] => 高専生の必需品
+これがないと試験で敗北します。
+            [3] => 高専生の必需品
+これがないと試験で敗北します。
+            [pic1] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [4] => uploads/3793dad43310d9f13fa4d8f429d7990e19f71871.jpeg
+            [create_date] => 2020-06-16 21:22:18
+            [5] => 2020-06-16 21:22:18
+        )
+
+    [8] => Array
+        (
+            [id] => 45
+            [0] => 45
+            [price] => 1200
+            [1] => 1200
+            [name] => PHPの教科書
+            [2] => PHPの教科書
+            [des] => わかりやすいですが、あまり使いませんでした。
+            [3] => わかりやすいですが、あまり使いませんでした。
+            [pic1] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [4] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [create_date] => 2020-06-16 21:09:14
+            [5] => 2020-06-16 21:09:14
+        )
+
+    [9] => Array
+        (
+            [id] => 44
+            [0] => 44
+            [price] => 1200
+            [1] => 1200
+            [name] => PHPの教科書
+            [2] => PHPの教科書
+            [des] => わかりやすいですが、あまり使いませんでした。
+            [3] => わかりやすいですが、あまり使いませんでした。
+            [pic1] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [4] => uploads/6213c4e765f95a892799a18ae4ecffe29f7637ed.jpeg
+            [create_date] => 2020-06-16 21:09:13
+            [5] => 2020-06-16 21:09:13
+        )
+
+)
+
+[13-Oct-2020 21:43:40 Asia/Tokyo] デバック:ログイン済
+[13-Oct-2020 21:43:40 Asia/Tokyo] デバック:有効期限切れ
+[13-Oct-2020 21:43:40 Asia/Tokyo] デバック:-----------マイページ----------
+[13-Oct-2020 21:43:40 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[13-Oct-2020 21:44:40 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[13-Oct-2020 21:44:40 Asia/Tokyo] デバック:自分情報:
+[13-Oct-2020 21:44:40 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[13-Oct-2020 21:45:40 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[13-Oct-2020 21:45:40 Asia/Tokyo] デバック:出品商品情報:
+[13-Oct-2020 21:45:40 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[13-Oct-2020 21:46:40 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[13-Oct-2020 21:46:40 Asia/Tokyo] デバック:メッセージ情報:
+[13-Oct-2020 21:46:40 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/tshop/mypage.php on line 16
+[13-Oct-2020 21:46:40 Asia/Tokyo] デバック:商品ID:
+[13-Oct-2020 21:46:40 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[13-Oct-2020 21:47:40 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[13-Oct-2020 21:47:40 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/tshop/mypage.php on line 39
+[13-Oct-2020 21:47:40 Asia/Tokyo] PHP Notice:  Trying to access array offset on value of type null in /Applications/MAMP/htdocs/tshop/mypage.php on line 40
+[30-Mar-2021 11:13:24 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[30-Mar-2021 11:14:24 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[30-Mar-2021 11:14:24 Asia/Tokyo] デバック:新着情報：
+[13-Sep-2021 11:55:48 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[13-Sep-2021 11:56:04 Asia/Tokyo] PHP Notice:  Undefined variable: option in /Applications/MAMP/htdocs/tshop/function.php on line 51
+[13-Sep-2021 11:56:48 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[13-Sep-2021 11:56:48 Asia/Tokyo] デバック:新着情報：
+[13-Sep-2021 11:57:04 Asia/Tokyo] エラー発生:SQLSTATE[HY000] [2002] Operation timed out
+[13-Sep-2021 11:57:04 Asia/Tokyo] デバック:新着情報：
